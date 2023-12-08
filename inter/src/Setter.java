@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public class Setter {
+public class Setter extends Volleyball_player{
+    private int countOfSets;
 }
