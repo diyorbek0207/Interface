@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public interface Information {
+public interface Information {
+    void getinfo();
+    void getTeamNaem();
+
 }
