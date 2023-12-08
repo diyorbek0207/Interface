@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public class GoalKeeper {
+public class GoalKeeper extends Foodball_player{
+    private String countOfSaves;
 }
