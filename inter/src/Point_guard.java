@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public class Point_guard {
+public class Point_guard extends Basketbcall_player{
+    private int countOfGuard;
 }
